@@ -1,0 +1,77 @@
+{
+"products": [
+  {
+    "id": 1,
+    "title": "The Dandy chair",
+    "img": "/images/Chair3.svg",
+    "desc": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "category": "chairs",
+    "price": "250",
+    "quantity": 9
+
+  },
+  {
+    "id": 2,
+    "title": "Rustic Vase Set",
+    "img": "/images/Vase.svg",
+    "desc": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "category": "vases",
+    "price": "125",
+    "quantity": 9
+      },
+  {
+    "id": 3,
+    "title": "The Silky Vase",
+    "img": "/images/Vase2.svg",
+    "desc": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "category": "vases",
+    "quantity": 9,
+    "price": "125"
+  },
+  {
+    "id": 4,
+    "title": "The Lucy Lamp",
+    "img": "/images/Lamp.svg",
+    "desc": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "category": "lamps",
+    "quantity": 9,
+    "price": "250"
+  },
+  {
+    "id": 5,
+    "title": "Basic white vase",
+    "img": "/images/Vase3.svg",
+    "desc": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "category": "vases",
+    "quantity": 9,
+    "price": "85"
+  },
+  {
+    "id": 6,
+    "title": "The Dandy chair",
+    "img": "/images/Chair2.svg",
+    "desc": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "category": "chairs",
+    "quantity": 9,
+    "price": "250"
+  },
+  {
+    "id": 7,
+    "title": "The Lucy Lamp",
+    "img": "/images/Lamp2.svg",
+    "desc": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "category": "lamps",
+    "price": "85",
+    "quantity": 9
+      },
+  {
+    "id": 8,
+    "title": "The Dandy chair",
+    "img": "/images/Chair.svg",
+    "desc": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "category": "chairs",
+    "price": "250",
+    "quantity": 9
+  }
+]
+}
